@@ -32,6 +32,7 @@ export const Section = styled.div`
 `;
 
 export const Approach = styled.div`
+    flex: 1;
     display: flex;
     flex-direction: column;
     background-color: white;
@@ -58,6 +59,7 @@ export const Approach = styled.div`
 `;
 
 export const Container = styled.div`
+    flex: 1;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -74,6 +76,7 @@ export const Cell = styled.div`
     }
 
     .cellImage {
+        padding: 0;
         height: 600px;
     }
 

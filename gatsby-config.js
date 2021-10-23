@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/icybac_website",
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "ICYBAC Homepage",
