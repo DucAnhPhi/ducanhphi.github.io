@@ -92,7 +92,7 @@ export const Cell = styled.div`
     }
 
     @media (max-width: 1000px) {
-        height: 400px;
+        height: auto;
         p,h1,h2 {
             padding: 0;
         }

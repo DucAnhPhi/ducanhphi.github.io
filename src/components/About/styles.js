@@ -21,6 +21,7 @@ export const Wrapper = styled.div`
 
         .stat {
             padding: 10px 0;
+            height: auto;
         }
     }
 `
